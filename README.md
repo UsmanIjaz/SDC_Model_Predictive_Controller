@@ -2,7 +2,7 @@
 In this project we'll implement Model Predictive Control to drive the car around the track. This time however we're not given the cross track error, we'll have to calculate that ourself! Additionally, there's a 100 millisecond latency between actuations commands on top of the connection latency.
 
 ## Implementation
-[src](https://github.com/UsmanIjaz/SDC_Model_Predictive_Controller/tree/master/src) folder contains the code for model predictive controller. Please, also have a look on this [writeup](https://github.com/UsmanIjaz/SDC_Model_Predictive_Controller/blob/master/writeup.pdf) for detils about implementation. 
+[src](https://github.com/UsmanIjaz/SDC_Model_Predictive_Controller/tree/master/src) folder contains the code for model predictive controller. Please, also have a look on this [writeup](https://github.com/UsmanIjaz/SDC_Model_Predictive_Controller/blob/master/writeup.pdf) for details about implementation. 
 
 ## Results
 No tire left the drivable portion of the track surface. The car did not pop up onto ledges or roll over any surfaces that would otherwise be considered unsafe (if humans were in the vehicle).
